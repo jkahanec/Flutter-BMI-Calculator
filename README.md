@@ -2,6 +2,6 @@
 
 A simple BMI Calculator built for the https://www.udemy.com/course/flutter-bootcamp-with-dart course. 
 
-![Home Page](https://github.com/jkahanec/Flutter-BMI-Calculator/tree/master/screenshots/bmi_calculator_home_page.jpeg)
+![Home Page](https://raw.githubusercontent.com/jkahanec/Flutter-BMI-Calculator/master/screenshots/bmi_calculator_home_page.png)
 
-![Results Page](https://github.com/jkahanec/Flutter-BMI-Calculator/tree/master/screenshots/bmi_calculator_results_page.jpeg)
+![Results Page](https://raw.githubusercontent.com/jkahanec/Flutter-BMI-Calculator/master/screenshots/bmi_calculator_results_page.png)
